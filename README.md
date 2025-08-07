@@ -18,4 +18,7 @@
   <img src="Assets/teaser.png" alt="Teaser"/>
 </div>
 
+## ⚡ TL;DR
+**XSpecMesh enables lossless acceleration of mesh autoregressive generation methods, achieving speed-ups of up to 1.7×.**
 
+Code, Dataset, and Models will be released soon, stay tuned!
